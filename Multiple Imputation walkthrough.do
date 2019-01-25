@@ -2,6 +2,8 @@
 * 12/05/2018 
 * Doug Johnson/Niklas Heusch
 
+* Comment from Eric *
+
 
 gl data "/Users/dougjohnson/Documents/IDinsight/Tech Team/TT book club/mi/" 
 gl data "C:\Users\Niklas\Dropbox (IDinsight)\TT book club"
